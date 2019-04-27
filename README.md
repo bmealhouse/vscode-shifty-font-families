@@ -6,12 +6,13 @@
 
 ```sh
 git clone git://github.com/bmealhouse/vscode-shifty-font-families.git
-vscode-shifty-font-families/install.sh
+cd vscode-shifty-font-families && ./install.sh
 ```
 
 ## Windows
 
 ```sh
 git clone git://github.com/bmealhouse/vscode-shifty-font-families.git
-vscode-shifty-font-families/install.ps1
+cd vscode-shifty-font-families
+./install.ps1
 ```
