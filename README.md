@@ -16,3 +16,7 @@ git clone git://github.com/bmealhouse/vscode-shifty-font-families.git
 cd vscode-shifty-font-families
 ./install.ps1
 ```
+
+## License
+
+MIT © Brent Mealhouse
