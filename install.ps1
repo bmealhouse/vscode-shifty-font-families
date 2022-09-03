@@ -9,7 +9,7 @@
 #>
 
 # Clone chrissimpkins/codeface
-git clone git://github.com/chrissimpkins/codeface.git
+git clone https://github.com/chrissimpkins/codeface.git
 
 $fontFiles = New-Object 'System.Collections.Generic.List[System.IO.FileInfo]'
 Get-ChildItem $PSScriptRoot/codeface/fonts -Filter "*.ttf" -Recurse | Foreach-Object {$fontFiles.Add($_)}
