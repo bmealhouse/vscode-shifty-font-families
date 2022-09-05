@@ -4,7 +4,7 @@
 # https://github.com/powerline/fonts/blob/master/install.sh
 
 # Clone chrissimpkins/codeface
-git clone git://github.com/chrissimpkins/codeface.git
+git clone https://github.com/chrissimpkins/codeface.git
 
 # Set source and target directories
 codeface_fonts_dir="$( cd "$( dirname "$0" )/codeface/fonts" && pwd )"
